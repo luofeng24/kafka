@@ -65,5 +65,6 @@ public class TestProducer {
 	            }
 	        }
 	        System.out.println("更新1");
+		System.out.println("在线更新");
 	    }	
 }
