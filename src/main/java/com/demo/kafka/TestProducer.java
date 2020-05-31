@@ -64,5 +64,6 @@ public class TestProducer {
 	                System.out.println(new String(message));
 	            }
 	        }
+	        System.out.println("更新1");
 	    }	
 }
